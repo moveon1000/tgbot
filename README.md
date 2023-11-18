@@ -1,5 +1,5 @@
-# tgbot #telegram bot #电报机器人 
+# tgbot #telegram bot #电报机器人  #tg游戏 #电报游戏 
 
-各类电报机器人定制  红包扫雷 记账机器人等 
+各类电报机器人游戏定制开发 
 
 tg联系：@nomore1000
